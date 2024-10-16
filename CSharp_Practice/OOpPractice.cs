@@ -14,6 +14,12 @@ namespace CSharp_Practice
         public string Name { get; } = name;
 
         public abstract string MakesNoise();
+
+        public override string ToString()
+        {
+            //Console.WriteLine($"{Name} is a {GetType().Name} and I {MakesNoise()}");
+            return $"{Name} is a {GetType().Name}";
+        }
     }
 
 
@@ -37,6 +43,11 @@ namespace CSharp_Practice
         public void PrintPersonDetails()
         {
             Console.WriteLine($"Name is {Name} and Date of Birth is {DateOfBirth}");
+        }
+
+        public override string ToString()
+        {
+            return "jhiiihdfngsfngjnrbnvslnkbvnkdz";
         }
 
     }
@@ -70,6 +81,7 @@ namespace CSharp_Practice
     {
         public override string MakesNoise()
         {
+            Console.WriteLine("Barks woof woof");
             return "Barks woof woof";   
         }
     }
@@ -78,6 +90,7 @@ namespace CSharp_Practice
     {
         public override string MakesNoise()
         {
+            Console.WriteLine("Meows meow meow");
             return "Meows meow meow";   
         }
     }

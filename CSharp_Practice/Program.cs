@@ -141,6 +141,7 @@ namespace CSharp_Practice
                     foreach (var pet in person?.Pets)
                     {
                         Console.WriteLine($"Has Pet Named: {pet?.Name}");
+                        Console.WriteLine(pet);
                         pet?.MakesNoise();
                     }
                 }

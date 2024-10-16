@@ -12,3 +12,4 @@ C:\practice projects\C#\CSharp_Practice\CSharp_Practice\obj\Debug\net8.0\refint\
 C:\practice projects\C#\CSharp_Practice\CSharp_Practice\obj\Debug\net8.0\CSharp_Practice.pdb
 C:\practice projects\C#\CSharp_Practice\CSharp_Practice\obj\Debug\net8.0\CSharp_Practice.genruntimeconfig.cache
 C:\practice projects\C#\CSharp_Practice\CSharp_Practice\obj\Debug\net8.0\ref\CSharp_Practice.dll
+C:\practice projects\C#\CSharp_Practice\CSharp_Practice\obj\Debug\net8.0\CSharp_Practice.sourcelink.json
