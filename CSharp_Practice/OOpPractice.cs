@@ -45,11 +45,6 @@ namespace CSharp_Practice
             Console.WriteLine($"Name is {Name} and Date of Birth is {DateOfBirth}");
         }
 
-        public override string ToString()
-        {
-            return "jhiiihdfngsfngjnrbnvslnkbvnkdz";
-        }
-
     }
 
 
