@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "MySecondProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MySecondProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MySecondProject.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MySecondProject/1.0.0": {
+      "type": "project",
+      "path": "../MySecondProject/MySecondProject.csproj",
+      "msbuildProject": "../MySecondProject/MySecondProject.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "MySecondProject >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mpandya\\.nuget\\packages\\": {}
@@ -35,7 +54,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\practice projects\\C#\\CSharp_Practice\\MySecondProject\\MySecondProject.csproj": {
+              "projectPath": "C:\\practice projects\\C#\\CSharp_Practice\\MySecondProject\\MySecondProject.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

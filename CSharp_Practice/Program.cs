@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
+using MySecondProject;
 
 namespace CSharp_Practice
 {
@@ -147,6 +148,11 @@ namespace CSharp_Practice
                 }
             }
 
+            //importing class and methods from another project
+
+            var printingName = new MannPandya();
+            printingName.PrintName();
+          
         }
     }
 }

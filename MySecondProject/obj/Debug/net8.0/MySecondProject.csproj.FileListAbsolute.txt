@@ -1,0 +1,15 @@
+C:\practice projects\C#\CSharp_Practice\MySecondProject\bin\Debug\net8.0\MySecondProject.exe
+C:\practice projects\C#\CSharp_Practice\MySecondProject\bin\Debug\net8.0\MySecondProject.deps.json
+C:\practice projects\C#\CSharp_Practice\MySecondProject\bin\Debug\net8.0\MySecondProject.runtimeconfig.json
+C:\practice projects\C#\CSharp_Practice\MySecondProject\bin\Debug\net8.0\MySecondProject.dll
+C:\practice projects\C#\CSharp_Practice\MySecondProject\bin\Debug\net8.0\MySecondProject.pdb
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.AssemblyInfoInputs.cache
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.AssemblyInfo.cs
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.csproj.CoreCompileInputs.cache
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.sourcelink.json
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.dll
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\refint\MySecondProject.dll
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.pdb
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\MySecondProject.genruntimeconfig.cache
+C:\practice projects\C#\CSharp_Practice\MySecondProject\obj\Debug\net8.0\ref\MySecondProject.dll

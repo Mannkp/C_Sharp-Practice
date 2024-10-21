@@ -1,0 +1,7 @@
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\bin\Release\MyFirstProject.exe.config
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\bin\Release\MyFirstProject.exe
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\bin\Release\MyFirstProject.pdb
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\obj\Release\MyFirstProject.csproj.AssemblyReference.cache
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\obj\Release\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\obj\Release\MyFirstProject.exe
+C:\practice projects\C#\CSharp_Practice\MyFirstProject\obj\Release\MyFirstProject.pdb

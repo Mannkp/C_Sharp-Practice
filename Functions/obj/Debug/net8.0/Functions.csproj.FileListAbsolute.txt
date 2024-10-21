@@ -1,0 +1,15 @@
+C:\practice projects\C#\CSharp_Practice\Functions\bin\Debug\net8.0\Functions.exe
+C:\practice projects\C#\CSharp_Practice\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\practice projects\C#\CSharp_Practice\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+C:\practice projects\C#\CSharp_Practice\Functions\bin\Debug\net8.0\Functions.dll
+C:\practice projects\C#\CSharp_Practice\Functions\bin\Debug\net8.0\Functions.pdb
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.sourcelink.json
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.dll
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.pdb
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+C:\practice projects\C#\CSharp_Practice\Functions\obj\Debug\net8.0\ref\Functions.dll
